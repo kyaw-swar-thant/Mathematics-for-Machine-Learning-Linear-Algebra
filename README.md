@@ -7,4 +7,4 @@
 
 _Course No_ | _Course Title_
 ------------ | -------------
-      1   | Mathematics for Machine Learning: Linear Algebra
+1   | Mathematics for Machine Learning: Linear Algebra
