@@ -3,8 +3,6 @@
 
 **I will update this repo in future as soon as I have finished my study.**
 
-First Header | Second Header
+_Course No_ | _Course Title_
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
+ 1 | Mathematics for Machine Learning: Linear Algebra
